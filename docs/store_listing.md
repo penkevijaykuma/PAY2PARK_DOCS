@@ -68,6 +68,6 @@ Maps & Navigation
 Everyone
 
 ## Contact Information
-Email: [Your Support Email]
+Email: smartparking2.noreply@gmail.com
 Website: [Your Website]
 Support: [Support URL] 
