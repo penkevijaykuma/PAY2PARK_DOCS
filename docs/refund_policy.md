@@ -1,6 +1,6 @@
 # Refund Policy for Pay2Park
 
-Last updated: [Current Date]
+Last updated: 16-04-2025
 
 ## 1. Refund Eligibility
 
