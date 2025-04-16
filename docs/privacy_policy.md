@@ -1,6 +1,6 @@
 # Privacy Policy for Pay2Park
 
-Last updated: [Current Date]
+Last updated: 16-04-2025
 
 ## 1. Introduction
 Welcome to Pay2Park. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our parking management mobile application.
@@ -69,4 +69,5 @@ We may update this policy periodically. We will notify you of any material chang
 ## 10. Contact Us
 For questions about this Privacy Policy, please contact us at:
 - Email: smartparking2.noreply@gmail.com
+- Phone: 9182887171
 - Address: T.venkatapuram, Tuni mandal, Kakinada District, Andhra Pradesh, India
