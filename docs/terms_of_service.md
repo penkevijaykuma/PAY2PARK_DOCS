@@ -66,5 +66,5 @@ We may terminate service for:
 
 ## 11. Contact Information
 For questions about these terms:
-- Email: [Your Support Email]
-- Address: [Your Business Address] 
+- Email: smartparking2.noreply@gmail.com
+- Address: T.venkatapuram,Tuni Mandal, Kakinada District, Andhra Pradesh, India  
