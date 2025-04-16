@@ -68,5 +68,5 @@ We may update this policy periodically. We will notify you of any material chang
 
 ## 10. Contact Us
 For questions about this Privacy Policy, please contact us at:
-- Email: [Your Support Email]
-- Address: [Your Business Address] 
+- Email: smartparking2.noreply@gmail.com
+- Address: T.venkatapuram, Tuni mandal, Kakinada District, Andhra Pradesh, India
