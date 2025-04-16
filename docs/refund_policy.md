@@ -50,6 +50,6 @@ Last updated: [Current Date]
 
 ## 8. Contact Information
 For refund requests:
-- Email: [Your Support Email]
-- Phone: [Support Phone]
+- Email: smartparking2.noreply@gmail.com
+- Phone: 9182887171
 - In-app support 
