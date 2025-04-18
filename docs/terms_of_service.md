@@ -1,6 +1,6 @@
 # Terms of Service for Pay2Park
 
-Last updated: [Current Date]
+Last updated: 16-04-2025
 
 ## 1. Acceptance of Terms
 By accessing or using Pay2Park, you agree to be bound by these Terms of Service.
